@@ -1,7 +1,7 @@
 # Trabalho de IA - Pré-processamento de Dados, Redução de Dimensionalidade e Aprendizado Supervisionado.
 ---
 ## Professora: Leticia Araújo Silva.
-## Alunos: João Lucas Conrado, Davi Ferlin, Natan Araújo e Cleres Caetano.
+## Alunos: João Lucas Conrado, Davi Ferlin, Natan Andrade e Cleres Caetano.
 ---
 ## O que usamos:
 - Jupyter
