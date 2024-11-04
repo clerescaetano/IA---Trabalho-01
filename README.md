@@ -6,7 +6,6 @@
 ## O que usamos:
 - Jupyter
 - Google Collab
-- Matplot
 
 ## Descrição: 
 Este projeto contém análises e implementações em aprendizado de máquina aplicadas em bases de dado distintas, sendo elas Communities and Crime, HTRU2, e Nursery.
