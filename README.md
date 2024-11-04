@@ -16,5 +16,5 @@ Este projeto contém análises e implementações em aprendizado de máquina apl
 - [Questão 2](https://github.com/clerescaetano/IA---Trabalho-01/blob/main/Quest%C3%B5es%20de%201%20%C3%A1%203/Quest%C3%A3o%202.ipynb)
 - [Questão 3](https://github.com/clerescaetano/IA---Trabalho-01/blob/main/Quest%C3%B5es%20de%201%20%C3%A1%203/Quest%C3%A3o%203.ipynb)
 - [Questões 4 até 7](https://github.com/clerescaetano/IA---Trabalho-01/blob/main/Quest%C3%B5es%204%20at%C3%A9%207/Quest%C3%B5es%204%20at%C3%A9%207.docx)
-
+---
 ### Licença: Este projeto é de uso somente acadêmico.
