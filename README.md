@@ -8,7 +8,8 @@
 - Google Collab
 
 ## Descrição: 
-Este projeto contém análises e implementações em aprendizado de máquina aplicadas em bases de dado distintas, sendo elas Communities and Crime, HTRU2, e Nursery.
+Este projeto contém análises e implementações em aprendizado de máquina aplicadas em bases de dado distintas, sendo elas Communities and Crime, HTRU2, e Nursery.<br>
+Relatórios dentro dos códigos nas questões 1 á 3.
 
 ## Respostas:
 - [Questão 1](https://github.com/clerescaetano/IA---Trabalho-01/blob/main/Quest%C3%B5es%20de%201%20%C3%A1%203/Quest%C3%A3o%201.ipynb)
